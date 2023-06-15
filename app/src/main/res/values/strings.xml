@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="num">number</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="empty">Result</string>
+    <string name="number">0</string>
+    <string name="numOne">Enter First Number:</string>
+    <string name="hint">0</string>
+    <string name="numTwo">Enter Second Number:</string>
+    <string name="numSecSpace">0</string>
+    <string name="heading">Calculator using Relative Layout</string>
+</resources>
